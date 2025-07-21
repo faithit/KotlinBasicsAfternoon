@@ -1,0 +1,3 @@
+Image(
+    painter=pain
+)
